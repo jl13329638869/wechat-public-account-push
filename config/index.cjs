@@ -38,7 +38,7 @@ const USER_CONFIG = {
           type: '节日', name: '结束异地纪念日', year: '2021', date: '02-26',
         },
       ],
-      // 我们在一起已经有xxxx天了的配置
+      // 我们在一起已经有xxx天了的配置
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2016-03-29' },
